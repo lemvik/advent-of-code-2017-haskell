@@ -1,10 +1,10 @@
 name:                advent-of-code
 version:             0.1.0.0
-github:              "githubuser/advent-of-code"
+github:              "lemvik/advent-of-code"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2018 Author name here"
+author:              "Victor Lemeshev"
+maintainer:          "lemeshev.victor@gmail.com"
+copyright:           "2018 Victor Lemeshev"
 
 extra-source-files:
 - README.md
